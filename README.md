@@ -6,12 +6,7 @@
  
 <br/>
 <b> The ANPR system utilizing MobileNetSSD and SimpleOCR achieved a precision of 92% and recall of 88% for number plate localization. SimpleOCR attained a 92% accuracy rate in character recognition with post-processing techniques improving overall accuracy. The system demonstrated robust performance in diverse scenarios and has potential for applications such as traffic management and law enforcement. Further improvements can be made by expanding the training data and refining post-processing techniques.<br/>
-\TFODCourse\Tensorflow\workspace\images\train<br />
-\TFODCourse\Tensorflow\workspace\images\test
-<br/><br/>
-<b>Step 7.</b> Begin training process by opening <a href="https://github.com/nicknochnack/TFODCourse/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
-<br /><br/>
-<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.   
+   
 <!-- If not, resolve installation errors by referring to the <a href="https://github.com/nicknochnack/TFODCourse/blob/main/README.md">Error Guide.md</a> in this folder.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics.  --> 
